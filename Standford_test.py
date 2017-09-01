@@ -206,7 +206,7 @@ class SVO(object):
 
 if __name__=="__main__":
     svo = SVO()
-    sentence = "Andreas loves soccer. He is also very good at it. Barack Obama likes the legislation"
+    sentence = "The strongest rain ever recorded in India shut down the financial hub of Mumbai, snapped communication lines, closed airports and forced thousands of people to sleep in their offices or walk home during the night, officials said today."
     sentences =  svo.sentence_split(sentence)
     val = []
     for sent in sentences:
