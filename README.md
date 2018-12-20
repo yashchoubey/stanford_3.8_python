@@ -1,1 +1,1 @@
-# stanford corenlp 3.8 python
+# stanford corenlp
